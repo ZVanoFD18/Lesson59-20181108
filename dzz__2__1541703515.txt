@@ -1,0 +1,12 @@
+Зарегистрировать домен pp.ua
+Регистрируемся на  cloudflare.com и добавляем наш домен.
+Получили домен, указываем DNS cloudflare.com (~ asa.cloudflare.com ... )
+Используем https://www.cloudflare.com/ как ДНС сервер.
+
+
+Создать сервер на
+https://www.vpsserver.com/
+Получите IP 
+установить Ubuntu + NodeJS
+сможете открыть по IP
+
